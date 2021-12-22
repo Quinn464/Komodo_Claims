@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9808e760-024e-4a2e-8bf2-aaf145c28c11": {
+      "ProjectGuid": "9808e760-024e-4a2e-8bf2-aaf145c28c11",
+      "DisplayName": "KomodoClaims",
+      "ColorIndex": 0
+    },
+    "c6f23fe0-9ac6-40b2-9ec2-3564942eaa2f": {
+      "ProjectGuid": "c6f23fe0-9ac6-40b2-9ec2-3564942eaa2f",
+      "DisplayName": "ClaimsRepositorys",
+      "ColorIndex": 1
+    },
+    "0bb82b4f-937a-4c34-a27e-6b857a0b6683": {
+      "ProjectGuid": "0bb82b4f-937a-4c34-a27e-6b857a0b6683",
+      "DisplayName": "UnitTestClaims",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

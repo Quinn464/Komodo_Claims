@@ -1,0 +1,6 @@
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\bin\Debug\ClaimsRepositorys.dll
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\bin\Debug\ClaimsRepositorys.pdb
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\obj\Debug\ClaimsRepositorys.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\obj\Debug\ClaimsRepositorys.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\obj\Debug\ClaimsRepositorys.dll
+C:\Users\qinn\source\repos\KomodoClaims\ClaimsRepositorys\obj\Debug\ClaimsRepositorys.pdb
